@@ -1,0 +1,5 @@
+{
+  "name": "Virtual Try-On Studio",
+  "description": "A virtual try-on application where users can select clothing items from a gallery and see them worn by a mannequin, powered by Gemini.",
+  "requestFramePermissions": []
+}
